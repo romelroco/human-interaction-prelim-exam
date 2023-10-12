@@ -1,1 +1,4 @@
-sagot sa exam
+My answer sheet
+Prelim exam
+
+< debugged python script >
